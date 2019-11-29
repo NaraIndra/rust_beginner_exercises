@@ -1,0 +1,12 @@
+/Users/mstygg/rust_projects/rustlings/target/release/deps/console-3c434b9c95e3113d.rmeta: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/common_term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/kb.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/unix_term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/utils.rs
+
+/Users/mstygg/rust_projects/rustlings/target/release/deps/libconsole-3c434b9c95e3113d.rlib: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/common_term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/kb.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/unix_term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/utils.rs
+
+/Users/mstygg/rust_projects/rustlings/target/release/deps/console-3c434b9c95e3113d.d: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/common_term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/kb.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/unix_term.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/utils.rs
+
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/lib.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/common_term.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/kb.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/term.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/unix_term.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/utils.rs:

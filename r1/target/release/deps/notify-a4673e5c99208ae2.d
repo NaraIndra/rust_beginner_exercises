@@ -1,0 +1,12 @@
+/Users/mstygg/rust_projects/rustlings/target/release/deps/notify-a4673e5c99208ae2.rmeta: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/fsevent.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/null.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/poll.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/mod.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/timer.rs
+
+/Users/mstygg/rust_projects/rustlings/target/release/deps/libnotify-a4673e5c99208ae2.rlib: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/fsevent.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/null.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/poll.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/mod.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/timer.rs
+
+/Users/mstygg/rust_projects/rustlings/target/release/deps/notify-a4673e5c99208ae2.d: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/fsevent.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/null.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/poll.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/mod.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/timer.rs
+
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/lib.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/fsevent.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/null.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/poll.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/mod.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/timer.rs:

@@ -1,0 +1,13 @@
+/Users/mstygg/rust_projects/rustlings/target/release/deps/memchr-050a16ad7754f4e7.rmeta: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs
+
+/Users/mstygg/rust_projects/rustlings/target/release/deps/libmemchr-050a16ad7754f4e7.rlib: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs
+
+/Users/mstygg/rust_projects/rustlings/target/release/deps/memchr-050a16ad7754f4e7.d: /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs /Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs
+
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs:
+/Users/mstygg/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs:

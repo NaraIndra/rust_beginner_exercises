@@ -1,0 +1,1 @@
+/Users/mstygg/rust_projects/rustlings/target/release/rustlings: /Users/mstygg/rust_projects/rustlings/src/exercise.rs /Users/mstygg/rust_projects/rustlings/src/main.rs /Users/mstygg/rust_projects/rustlings/src/run.rs /Users/mstygg/rust_projects/rustlings/src/verify.rs
