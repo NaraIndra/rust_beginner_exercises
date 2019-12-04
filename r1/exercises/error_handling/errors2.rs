@@ -9,7 +9,7 @@
 // Right now, this function isn't handling the error case at all (and isn't
 // handling the success case properly either). What we want to do is:
 // if we call the `parse` function on a string that is not a number, that
-// function will return a `ParseIntError`, and in that case, we want to
+// function will return a `ParseIntErrors`, and in that cae, we want to
 // immediately return that error from our function and not try to multiply
 // and add.
 
